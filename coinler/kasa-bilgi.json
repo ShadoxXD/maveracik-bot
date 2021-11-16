@@ -1,0 +1,45 @@
+[
+	{
+		"isim": "Acemi Kasası",
+    "açıklama": "Yeni başlayan kişiler için ideal bir kasa!",
+		"fiyat": "200",
+    "kasaid": "1"
+	},
+	{
+		"isim": "Bronz Kasa",
+    "açıklama": "Fazla para çıkma şansı %30 olan bu kasa, parası az olanlar için ideal bir kasa!",
+		"fiyat": "500",
+    "kasaid": "2"
+	},
+	{
+		"isim": "Gümüş Kasa",
+    "açıklama": "Fazla para çıkma şansı %50 olan bu kasa, sizler için ideal bir kasa!",
+		"fiyat": "1000",
+    "kasaid": "3"
+	},
+	{
+		"isim": "Altın Kasa",
+    "açıklama": "Fazla para çıkma şansı %75 olan bu kasa, yüksek seviyede paraları sizlere sunuyor!",
+		"fiyat": "1500",
+    "kasaid": "4"
+	},
+	{
+		"isim": "Elmas Kasa",
+    "açıklama": "Fazla para çıkma şansı %90 olan bu kasa, yüksek seviyede paraları sizlere sunuyor!",
+		"fiyat": "2000",
+    "kasaid": "5"
+	},
+  	{
+		"isim": "Yaz Kasası",
+    "açıklama": "Sadece Eylül ayına kadar geçerli olan bu kasa, sizler için çok büyük avantajlar sağlıyor!",
+		"fiyat": "5000",
+    "kasaid": "6"
+	},
+
+	{
+		"isim": "Şanslı Kasası",
+    "açıklama": "Paranı üst üste katlamanın tek yolu burada! Bu kasayı açarsan aç en az %10 fazla para geliyor! Kasım ayına kadar olan bu avantajı sakın kaçırma!",
+		"fiyat": "10000",
+    "kasaid": "7"
+	}
+]
